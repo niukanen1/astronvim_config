@@ -21,3 +21,5 @@ git clone https://github.com/AstroNvim/AstroNvim ~/.config/nvim
 ```shell
 git clone https://github.com/niukanen1/astronvim_config.git ~/.config/nvim/lua/user
 ```
+### Tips
+To make prettier work as expected with .vue files and typescript-lsp turned on you need to first download typescript-lsp and then install volar.
